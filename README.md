@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Erik
-- 👀 I’m interested in coding for game development
-- 🌱 I’m currently learning javascript
-- 📫 email: eriksharris195@gmail.com
-- 😄 Pronouns: Any Pronouns
+Nora (she/her)
